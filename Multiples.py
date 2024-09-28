@@ -1,5 +1,3 @@
-
-
 def main():
     a = int(input("Enter larger number: "))
     b = int(input("Enter smaller number: ")) 
