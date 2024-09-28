@@ -17,3 +17,9 @@ integer value and returns True if k is even, and False otherwise.<br>
 However, your function cannot use the multiplication, modulo, or<br>
 division operators.<br>
 </p>
+
+<p><b>R-1.3</b><br> Write a short Python function, minmax(data), that takes<br>
+a sequence of one or more numbers, and returns the smallest and largest<br>
+numbers, in the form of a tuple of length two. Do not use the built-in<br>
+functions min or max in implementing your solution.<br>
+</p>
